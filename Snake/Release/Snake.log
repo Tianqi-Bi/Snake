@@ -1,0 +1,9 @@
+﻿  Snake.cpp
+D:\文档\My Code\Snake\Snake\Snake.cpp(53,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\文档\My Code\Snake\Snake\Snake.cpp(54,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  正在生成代码
+  2 of 16 functions (12.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Snake.vcxproj -> D:\文档\My Code\Snake\Release\Snake.exe

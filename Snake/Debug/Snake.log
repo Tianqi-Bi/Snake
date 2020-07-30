@@ -1,0 +1,5 @@
+﻿  Snake.cpp
+D:\文档\My Code\Snake\Snake\Snake.cpp(43,9): warning C4551: 缺少参数列表的函数调用
+D:\文档\My Code\Snake\Snake\Snake.cpp(53,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\文档\My Code\Snake\Snake\Snake.cpp(54,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Snake.vcxproj -> D:\文档\My Code\Snake\Debug\Snake.exe
